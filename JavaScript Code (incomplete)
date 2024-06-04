@@ -1,0 +1,69 @@
+let plus =document.querySelector("#plus");
+let seven =document.querySelector("#seven");
+let eight =document.querySelector("#eight");
+let nine =document.querySelector("#nine");
+let minus =document.querySelector("#minus");
+let four =document.querySelector("#four");
+let five =document.querySelector("#five");
+let six =document.querySelector("#six");
+let star =document.querySelector("#star");
+let three =document.querySelector("#three");
+let one =document.querySelector("#one");
+let two =document.querySelector("#two");
+let slash =document.querySelector("#slash");
+let dot =document.querySelector("#dot");
+let zero =document.querySelector("#zero");
+let equal =document.querySelector("#equal");
+
+let smallBox= document.querySelector("#smallBox");
+
+
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+eight.addEventListener("click",()=>{
+    smallBox.innerText+="8";
+})
+nine.addEventListener("click",()=>{
+    smallBox.innerText+="9";
+})
+four.addEventListener("click",()=>{
+    smallBox.innerText+="4";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+seven.addEventListener("click",()=>{
+    smallBox.innerText+="7";
+})
+
